@@ -1,0 +1,11 @@
+cryptography
+pyOpenSSL
+aiortc
+numpy
+pydub
+mediapipe
+streamlit
+streamlit_webrtc
+streamlit-nested-layout
+tensorflow
+pip3 install numpy --upgrade
